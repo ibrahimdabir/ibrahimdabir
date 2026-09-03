@@ -38,7 +38,7 @@ OPEN_TO="AI/ML Intern | Data Science Intern | Data Analyst"
 
 **Data, AI & Databases**
 
-[![Data tools](https://skillicons.dev/icons?i=tensorflow,sklearn,mysql&theme=dark&perline=7)](https://skillicons.dev)
+[![Data tools](https://skillicons.dev/icons?i=sklearn,mysql&theme=dark&perline=7)](https://skillicons.dev)
 
 **Developer Tools**
 
@@ -85,15 +85,6 @@ OPEN_TO="AI/ML Intern | Data Science Intern | Data Analyst"
 - Created data models, managed relationships, and wrote DAX measures.
 - Analyzed airline costs and seasonal trends.
 - Improved accuracy by resolving messy data and incorrect aggregations.
-
-</details>
-
-<details open>
-<summary><strong><a href="https://github.com/ibrahimdabir/waste-segregation-cnn">Waste Segregation CNN</a></strong></summary>
-
-| Stack | Scope | Impact |
-|---|---|---|
-| Python, TensorFlow/Keras, Kaggle API | CNN image classifier for waste segregation; fixed a train/validation data-loading bug, normalized images, trained and evaluated the model | Applied end-to-end deep learning workflow: dataset sourcing, debugging data pipelines, and model building |
 
 </details>
 
@@ -221,7 +212,6 @@ Focused on building and documenting projects on [GitHub](https://github.com/ibra
 learning:
   - scikit-learn
   - machine learning
-  - deep learning (CNNs, TensorFlow/Keras)
 building:
   - machine-learning foundations
   - documented data and programming repositories
