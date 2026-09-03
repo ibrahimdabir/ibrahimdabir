@@ -38,7 +38,7 @@ OPEN_TO="AI/ML Intern | Data Science Intern | Data Analyst"
 
 **Data, AI & Databases**
 
-[![Data tools](https://skillicons.dev/icons?i=sklearn,mysql&theme=dark&perline=7)](https://skillicons.dev)
+[![Data tools](https://skillicons.dev/icons?i=tensorflow,sklearn,mysql&theme=dark&perline=7)](https://skillicons.dev)
 
 **Developer Tools**
 
@@ -88,12 +88,30 @@ OPEN_TO="AI/ML Intern | Data Science Intern | Data Analyst"
 
 </details>
 
+<details open>
+<summary><strong><a href="https://github.com/ibrahimdabir/waste-segregation-cnn">Waste Segregation CNN</a></strong></summary>
+
+| Stack | Scope | Impact |
+|---|---|---|
+| Python, TensorFlow/Keras, Kaggle API | CNN image classifier for waste segregation; fixed a train/validation data-loading bug, normalized images, trained and evaluated the model | Applied end-to-end deep learning workflow: dataset sourcing, debugging data pipelines, and model building |
+
+</details>
+
 <details>
 <summary><strong><a href="https://github.com/ibrahimdabir/Matplotlib-Practice">Matplotlib Practice</a></strong></summary>
 
 | Stack | Scope | Impact |
 |---|---|---|
 | Python, Matplotlib, Pandas, NumPy | Basic and advanced plots, customization, subplots, Pandas integration, and multivariate analysis | Built a structured visualization reference through runnable exercises |
+
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/ibrahimdabir/Seaborn-practice">Seaborn Practice</a></strong></summary>
+
+| Stack | Scope | Impact |
+|---|---|---|
+| Python, Seaborn, Pandas | Styling, relational, distribution, categorical, regression, matrix, and multi-plot grid visualizations | Rounded out a full statistical visualization toolkit alongside Matplotlib |
 
 </details>
 
@@ -112,6 +130,15 @@ OPEN_TO="AI/ML Intern | Data Science Intern | Data Analyst"
 | Stack | Scope | Impact |
 |---|---|---|
 | C++, STL | Fundamentals, OOP, pointers, recursion, STL, sorting, searching, and lab practicals | Developed programming and problem-solving fundamentals through structured practice |
+
+</details>
+
+<details>
+<summary><strong><a href="https://github.com/ibrahimdabir/The-Ultimate-Python-Course">The Ultimate Python Course</a></strong></summary>
+
+| Stack | Scope | Impact |
+|---|---|---|
+| Python | Source code and exercises from a structured Python course | Reinforced core Python fundamentals through guided, hands-on practice |
 
 </details>
 
@@ -194,6 +221,7 @@ Focused on building and documenting projects on [GitHub](https://github.com/ibra
 learning:
   - scikit-learn
   - machine learning
+  - deep learning (CNNs, TensorFlow/Keras)
 building:
   - machine-learning foundations
   - documented data and programming repositories
