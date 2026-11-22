@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](https://capsule-render.vercel.app/api?type=waving&height=250&color=0:07111F,100:00D9FF&text=Ibrahim%20Dabir&fontColor=E6F7FF&fontSize=56&animation=fadeIn&fontAlignY=38&desc=AI%20%26%20Data%20Science%20%7C%20Python%20%26%20Machine%20Learning&descAlignY=58&descSize=18)
+![Banner](https://raw.githubusercontent.com/ibrahimdabir/ibrahimdabir/main/assets/profile-banner.svg)
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=900&color=00D9FF&background=07111F00&center=true&vCenter=true&multiline=false&width=760&lines=%24+whoami+%E2%86%92+AI+%26+Data+Science+Student;%24+focus+%E2%86%92+AI%2FML+%7C+Data+Analytics;%24+stack+%E2%86%92+Python+%7C+SQL+%7C+Power+BI;%24+learning+%E2%86%92+scikit-learn+%7C+Machine+Learning;%24+open-to+%E2%86%92+AI%2FML+%7C+Data+Science+Internships)
 
@@ -160,7 +160,7 @@ Focused on building and documenting projects on [GitHub](https://github.com/ibra
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=ibrahimdabir&theme=algolia&no-bg=true&no-frame=true&column=7)
+![Trophies](https://raw.githubusercontent.com/ibrahimdabir/ibrahimdabir/main/assets/github-achievements-panel.svg)
 
 </div>
 
